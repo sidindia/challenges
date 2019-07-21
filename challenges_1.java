@@ -3,7 +3,7 @@
 public class prefix
 {
 	public static void main(String[] args) {
-	    System.out.println(longestCommonPrefix(new String[]{"Hello","Hi","Highest"}));
+	    System.out.println(longestCommonPrefix(new String[]{"High","Higher","Highest"}));
 	}
 	
 	private static String longestCommonPrefix(String[] array)
