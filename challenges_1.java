@@ -1,3 +1,5 @@
+// Find the longest common prefix from an array of String
+
 public class prefix
 {
 	public static void main(String[] args) {
